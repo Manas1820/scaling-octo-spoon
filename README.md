@@ -1,1 +1,1 @@
-Basics Rust Notes
+Rust Notes
